@@ -1,0 +1,23 @@
+{
+  "name": "shinyhuntdiscordbot",
+  "version": "1.0.0",
+  "description": "Notification bot for ShinyHuntBot",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DR4CONS/ShinyHuntDiscordBot.git"
+  },
+  "author": "DR4CON",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DR4CONS/ShinyHuntDiscordBot/issues"
+  },
+  "homepage": "https://github.com/DR4CONS/ShinyHuntDiscordBot#readme",
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7"
+  }
+}
